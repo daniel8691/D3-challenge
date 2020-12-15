@@ -1,4 +1,4 @@
-// @TODO: YOUR CODE HERE!
+
 // Set up chart
 var svgWidth = 960;
 var svgHeight = 500;
